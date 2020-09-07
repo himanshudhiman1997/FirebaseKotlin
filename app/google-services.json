@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160093123788",
+    "firebase_url": "https://fir-kotlin-23fc8.firebaseio.com",
+    "project_id": "fir-kotlin-23fc8",
+    "storage_bucket": "fir-kotlin-23fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160093123788:android:a23c3e473b09fb6b52fe69",
+        "android_client_info": {
+          "package_name": "com.himanshu.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160093123788-385006q0prm8plbof143h1orgq3sq0dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM99KqIHREQViVakAE7gcLkzTeP_sYlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160093123788-385006q0prm8plbof143h1orgq3sq0dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
