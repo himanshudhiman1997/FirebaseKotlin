@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "160093123788-vuu6m9mp4d62j7diagr20jqs9fmlj8ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.firebasekotlin",
+            "certificate_hash": "6e187ff8047f5621907ff99bc9f51dcee7ceed01"
+          }
+        },
+        {
           "client_id": "160093123788-385006q0prm8plbof143h1orgq3sq0dj.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -28,7 +36,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "160093123788-385006q0prm8plbof143h1orgq3sq0dj.apps.googleusercontent.com",
+              "client_id": "160093123788-geqee1vdpt92qs3r8le6gfd204q78c0p.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
