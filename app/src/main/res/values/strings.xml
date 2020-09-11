@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirebaseKotlin</string>
+    <string name="default_notification_channel_id">default_fcm_id</string>
 </resources>
